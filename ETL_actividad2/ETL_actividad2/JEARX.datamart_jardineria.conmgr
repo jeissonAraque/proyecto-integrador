@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="JEARX.datamart_jardineria"
+  DTS:DTSID="{49FD40F2-B929-4208-B5FF-5473FD81DAD7}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=JEARX;Initial Catalog=datamart_jardineria;Integrated Security=True;Encrypt=False;Application Name=SSIS-ETL_actividad2-{49FD40F2-B929-4208-B5FF-5473FD81DAD7}JEARX.datamart_jardineria;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="JEARX.stagin"
+  DTS:DTSID="{94E0FBF7-229D-4A8F-A940-7724B216E618}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=JEARX;Initial Catalog=stagin;Integrated Security=True;Encrypt=False;Application Name=SSIS-ETL_actividad2-{94E0FBF7-229D-4A8F-A940-7724B216E618}JEARX.stagin;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
